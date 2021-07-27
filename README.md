@@ -6,3 +6,5 @@ I finished this work in 09/2019.
 
 
 It related to changing word format in C.
+
+1.c is the code file, others are test cases.
