@@ -1,4 +1,4 @@
-# FOA-Project1
+# Text Formatting
 This is a piece work from COMP10002 Foundation of Algorithmn Project 1(University of Melborune).
 
 
